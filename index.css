@@ -1,0 +1,41 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  body {
+    text-align: center;
+    background-color: rgba(200, 0, 0, 0.1);
+  }
+  
+  #title {
+    font-size: 60px;
+    font-family: cursive;
+    padding-bottom: 100px;
+    padding-top: 10px;
+    color: red;
+    text-shadow: 2px 2px 2px black;
+  }
+
+  #span-container {
+    width: 500px;
+    margin: auto;
+    border: none;
+    border-radius: 30px;
+    background-color: #fff;
+    padding: 40px;
+  }
+  
+  #quotes {
+    font-family: monospace;
+    font-size: 25px;
+    color: rgba(0, 0, 0, 0.5);
+  
+  }
+  
+  #weekday{
+    font-family :Arial;
+    font-size :40px;
+    padding-bottom :20px;
+    text-shadow: 2px 2px 2px red;
+  }
